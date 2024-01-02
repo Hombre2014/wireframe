@@ -1,0 +1,15 @@
+{
+  "name": "wireframe",
+  "version": "1.0.0",
+  "description": "Using Hotwire without Ruby on Rails",
+  "main": "index.js",
+  "scripts": {
+    "launch": "npx http-server"
+  },
+  "keywords": [
+    "hotwire",
+    "turbo"
+  ],
+  "author": "YC",
+  "license": "MIT"
+}
